@@ -3,9 +3,11 @@ font-family: 'Playfair Display', serif;---->Headers
 font-family: 'Raleway', sans-serif; ----->body
 */
 
-body, h1, p {
+p {
   font-family: 'Playfair Display', serif;
-font-family: 'Raleway', sans-serif;
+  text-align: center;
+  padding: 5px;
+
 }
 
 }
@@ -15,10 +17,26 @@ body {
 h1 {
   color: black;
   text-align: center;
+  padding: 15px;
+  font-family: 'Playfair Display', serif;
+}
+
+body {
   border-style: solid;
   border-width: 2px;
   border-color: black;
   border: 100%;
+}
 
+a:link, a:visited {
+    background-color: black;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
 
+a:hover, a:active {
+    background-color: #001a66;
 }
