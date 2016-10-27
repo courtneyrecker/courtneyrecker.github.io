@@ -15,7 +15,8 @@ p {
 
 }
 body {
-  backgound-color: white;
+    background-color: linear-gradient(#001a66, white);
+  }
 }
 h1 {
   color: black;
