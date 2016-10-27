@@ -1,8 +1,15 @@
+body, h1, p {
+  font-family: 'Playfair Display', serif;
+font-family: 'Raleway', sans-serif;
+}
+
+}
 body {
   backgound-color: white;
 }
 h1 {
   color: black;
   text-align: center;
+
 
 }
