@@ -16,7 +16,9 @@ h1 {
   color: black;
   text-align: center;
   border-style: solid;
-   border-width: 2px;
+  border-width: 2px;
+  border-color: black;
+  border: 100%;
 
 
 }
