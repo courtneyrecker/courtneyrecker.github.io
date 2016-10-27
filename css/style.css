@@ -2,7 +2,10 @@
 font-family: 'Playfair Display', serif;---->Headers
 font-family: 'Raleway', sans-serif; ----->body
 */
+header {
+  text-align: center;
 
+}
 p {
   font-family: 'Playfair Display', serif;
   text-align: center;
