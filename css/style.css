@@ -18,7 +18,8 @@ a:hover, a:active {
 }
 
 #page-wrap {
-     width: 800px;
+     max-width: 60%;
+     max-height: 60%;
      margin: 0 auto;
 }
 
@@ -35,14 +36,14 @@ a:hover, a:active {
 
 }
 .help {
-  font-family: 'Playfair Display', serif;
+  font-family: 'Raleway', sans-serif;
   text-align: center;
   clear: left;
 }
 
 .create {
   text-align: center;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Playfair Display', serif;
   clear: left;
 
 }
