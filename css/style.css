@@ -18,9 +18,10 @@ a:hover, a:active {
 }
 
 body {
+  background-color: #2E63A7;
   display:block;
   margin:auto;
-  background-color: #2E63A7;
+  
 }
 
 .header {
