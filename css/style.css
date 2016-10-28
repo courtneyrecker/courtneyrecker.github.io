@@ -19,8 +19,8 @@ a:hover, a:active {
 }
 
 body {
-  padding: 30px;
-  vertical-align: middle;
+  display:block;
+  margin:auto;
 }
 
 .header {
