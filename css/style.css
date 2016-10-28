@@ -42,22 +42,9 @@ a:hover, a:active {
   clear: left;
 }
 
-.style {
-    list-style: none;
-
-}
-
-h3 {
+.create {
   text-align: center;
   font-family: 'Raleway', sans-serif;
   clear: left;
-
-}
-.backpack{
-  align-content: center;
-  max-width: 50%;
-  max-height: 50%;
-  padding: 5px;
-  word-wrap: normal;
 
 }
