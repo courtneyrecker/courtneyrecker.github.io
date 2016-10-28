@@ -4,7 +4,6 @@ font-family: 'Raleway', sans-serif; ----->headers
 */
 
 
-
 a:link, a:visited {
     background-color: black;
     color: white;
@@ -21,6 +20,7 @@ a:hover, a:active {
 body {
   display:block;
   margin:auto;
+  background-color: #2E63A7;
 }
 
 .header {
